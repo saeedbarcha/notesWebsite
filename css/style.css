@@ -1,0 +1,29 @@
+.container{
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 4px solid rgb(18, 17, 19);
+    margin-bottom: 22px;
+    
+    background-color: blueviolet;    
+}
+.row{
+    border: 4px solid rgb(212, 14, 113);
+    background-color: palegreen;
+ 
+    
+   
+}
+/* .col{
+    border: 3px solid rgb(42, 23, 211);
+} */
+.rownew{
+    background-color: rgb(235, 216, 47);
+}
+.col2{
+    background-color: lightslategrey;
+}
+
+.col3{
+    border: 4px solid rgb(49, 12, 31);
+}
